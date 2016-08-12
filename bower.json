@@ -1,0 +1,24 @@
+{
+  "name": "Angular-Ajax-Encrypt",
+  "authors": [
+    "David Tobar alias DavidZas"
+  ],
+  "description": "AngularJs Library to conne connect with the php back end https://github.com/davidzas/Back-End-Php",
+  "main": "angular.ajax.encrypt.js,gibberishAES.js",
+  "keywords": [
+    "Angularjs",
+    "Ajax",
+    "Encrypt",
+    "Encryption",
+    "Solution"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/davidzas/Angular-Ajax-Encrypt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
